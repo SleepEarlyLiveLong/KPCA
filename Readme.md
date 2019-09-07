@@ -3,7 +3,7 @@
 This is a realization of Kernel Principle Component Analysis (KPCA) and its applications (Code + Description). Here is the file structure:
 
 ```
-KPCA
+  KPCA
     |-- src
         |-- myarrow.m
         |-- mygenerate_data.m
