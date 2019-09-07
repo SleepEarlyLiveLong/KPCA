@@ -25,4 +25,4 @@ Among the files above:
 - file 'LICENSE' is the license file produced by github;
 - file '学习笔记 _ 主成分分析(PCA)及其若干应用.md' is a detailed introduction document for this project. 
 
-For more detailed information, refer to article [学习笔记 _ 核主成分分析(KPCA)及其若干应用.md]().
+For more detailed information, refer to article [学习笔记 _ 核主成分分析(KPCA)及其若干应用.md](https://github.com/chentianyangWHU/KPCA/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20_%20%E6%A0%B8%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90(KPCA)%E5%8F%8A%E5%85%B6%E8%8B%A5%E5%B9%B2%E5%BA%94%E7%94%A8.md).
